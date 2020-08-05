@@ -9,7 +9,7 @@ import random
 
 # API TOKEN :
 
-TOKEN = 'NzM5ODAwMjA2MTQ4NjMyNjA3.XyfuoQ.l3RauiNlz8pjIj4fVZTmW7p1D2Q'
+TOKEN = ' '
 
 client = commands.Bot(command_prefix= '&')
 
